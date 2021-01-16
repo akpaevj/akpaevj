@@ -6,5 +6,5 @@
 - 📫 How to reach me: [email](mailto:akpaevj@gmail.com)
 - 😄 Pronouns: he
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akpaevj&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akpaevj&count_private=true&hide=css&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akpaevj&count_private=true&show_icons=true&theme=radical)](https://github.com/akpaevj)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akpaevj&count_private=true&hide=css&layout=compact&theme=radical)](https://github.com/akpaevj)
